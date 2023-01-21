@@ -1,4 +1,2 @@
 # my-calculator
-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
-
-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
+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
